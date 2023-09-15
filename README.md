@@ -1,6 +1,7 @@
 <img src="https://plopdo.com/wp-content/uploads/2021/07/Screenshot-1-1210x642.png?crop=1" alt="" width="100%" height="300px">
 <h1 align="center">Hi 👋, I'm Suresh Rokaya</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
+<p> I'm Suresh Rokaya, as frontend developer with expertise in HTML, CSS, and JavaScript. I also have experience with popular frameworks like Bootstrap and ReactJs</p>
 <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="" width="500px" height="400px>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokayasuresh&label=Profile%20views&color=0e75b6&style=flat" alt="rokayasuresh" /> </p>
