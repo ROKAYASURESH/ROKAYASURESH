@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **HTML, CSS , JAVASCRIPT**
 
-- 📫 How to reach me **rokayasuresh028@gmai.com**
+- 📫 How to reach me **sureshrokaya761@gmai.com**
 
 - ⚡ Fun fact **I am funny**
 
