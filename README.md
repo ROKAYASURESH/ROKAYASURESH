@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Suresh Rokaya</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <p align="center"> As a web developer, I have a strong understanding of web technologies and the ability to create and maintains websites ans web applications. I have a good grasp of programming language such as HTML, CSS and Javascript as well as exprience with frameworks and libraries like Bootstrap and React JS </p>
-<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="" width="500px" height="400px>
+<img align="right" src="[https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif](https://media.licdn.com/dms/image/C4E12AQHohaaJm6qNNw/article-cover_image-shrink_600_2000/0/1630526455370?e=2147483647&v=beta&t=u2Y1Km4BQ4IpxR95UafxXD5fpu_fZvh_KE2qHvq_ngE)" alt="" width="500px" height="400px>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokayasuresh&label=Profile%20views&color=0e75b6&style=flat" alt="rokayasuresh" /> </p>
 
