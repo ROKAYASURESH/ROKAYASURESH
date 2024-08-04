@@ -1,6 +1,6 @@
 <img src="https://d382vuhe6yd0tq.cloudfront.net/wp-content/uploads/2023/12/custom-web-application-development.webp" alt="" width="100%" height="300px">
 <h1 align="center">Hi 👋, I'm Suresh Rokaya</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate Web Application developer from Nepal</h3>
 <p align="center"> 👨‍💻 Full Stack Developer | Specializing in Django for building robust backend systems and React for dynamic frontend experiences. Passionate about creating scalable and efficient web applications. Skilled in Python, JavaScript, HTML, CSS, and more. Let's collaborate and create impactful solutions!</p>
 <img align="right" src="https://media.licdn.com/dms/image/C4E12AQHohaaJm6qNNw/article-cover_image-shrink_600_2000/0/1630526455370?e=2147483647&v=beta&t=u2Y1Km4BQ4IpxR95UafxXD5fpu_fZvh_KE2qHvq_ngE" alt="" width="500px" height="400px>
 
