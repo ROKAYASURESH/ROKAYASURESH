@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://rokayasuresh.github.io/MyPersonalPortfolio/](https://rokayasuresh.github.io/MyPersonalPortfolio/)
+- 👨‍💻 All of my projects are available at [https://sureshrokaya.com.np/](https://sureshrokaya.com.np/)
 
 - 💬 Ask me about **HRML, CSS, JAVASCRIPT, Laravel**
 
