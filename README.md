@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Suresh Rokaya</h1>
 <h3 align="center">A passionate Web Application developer from Nepal</h3>
 <p align="center"> 👨‍💻 Full Stack Developer | Specializing in Django for building robust backend systems and React for dynamic frontend experiences. Passionate about creating scalable and efficient web applications. Skilled in Python, JavaScript, HTML, CSS, and more. Let's collaborate and create impactful solutions!</p>
-<img align="right" src="https://sureshrokaya.com.np/static/media/homeImage.06b6523800966686f827.jpg" alt="" width="500px" height="400px>
+<img align="right" src="https://sureshrokaya.com.np/static/media/homeImage.06b6523800966686f827.jpg" alt="" width="400px" height="300px>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokayasuresh&label=Profile%20views&color=0e75b6&style=flat" alt="rokayasuresh" /> </p>
 
